@@ -38,9 +38,9 @@ python main_reload.py --input "data\the_raven_poe.txt" --output "outputs/prueba.
 
 ### Parametros
 
---input: ruta del archivo de entrada
---ouput: ruta del archivo de salida
--n: cantidad de palabras a mostrar
+--input: ruta del archivo de entrada  
+--ouput: ruta del archivo de salida  
+-n: cantidad de palabras a mostrar  
 
 </br>
 
