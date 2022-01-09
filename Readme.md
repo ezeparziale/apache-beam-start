@@ -1,6 +1,6 @@
-# Ejemplo de pipeline Apache Beam
+# ☄️ Ejemplo de pipeline Apache Beam
 
-## Pasos
+## 🏃‍♂️ Pasos
 
 Crear ambiente
 1. Clonar repo 
@@ -44,12 +44,12 @@ python main_reload.py --input "data\the_raven_poe.txt" --output "outputs/prueba.
 
 </br>
 
-# Ejemplos
+# 📘 Ejemplos
 En la carpeta examples estan todos las funciones para los pipelines de beam.
 
 </br>
 
-# Fuente de libros
+# 📚 Fuente de libros
 https://www.gutenberg.org/cache/epub/17192/pg17192.txt  
 https://www.gutenberg.org/files/58221/58221-0.txt
 
